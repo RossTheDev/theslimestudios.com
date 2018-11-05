@@ -2,7 +2,8 @@
 
 The company website for a small indie-studio im in :)
 
-Will have all company info, our projects, and our members.
+Has our games, some info, and more! Check it out :)
+theslimestudios.com <3
 
 HTML/JS: Ross P.
 
